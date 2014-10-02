@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpMultiPartPostHandler/Program.cs">
+    <Files>
+      <File FileName="CSharpMultiPartPostHandler/RestClient/PostData.cs" Line="1" Column="1" />
+      <File FileName="CSharpMultiPartPostHandler/RestClient/MethodParameterSet.cs" Line="1" Column="1" />
+      <File FileName="CSharpMultiPartPostHandler/RestClient/CSharpMultiPartPostHandlerClient.cs" Line="132" Column="132" />
+      <File FileName="CSharpMultiPartPostHandler/RestClient/CSharpMultiPartPostHandlerClientBase.cs" Line="30" Column="30" />
+      <File FileName="CSharpMultiPartPostHandler/RestClient/PostApiMethod.cs" Line="36" Column="36" />
+      <File FileName="CSharpMultiPartPostHandler/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="CSharpMultiPartPostHandler/Program.cs" line="38" offsetX="1037" offsetY="555" expression="response" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

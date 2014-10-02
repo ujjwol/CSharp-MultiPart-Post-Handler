@@ -1,0 +1,7 @@
+/Volumes/C/Users/ujjwol/Documents/Visual Studio 2013/Projects/CSharpMultiPartPostHandler/CSharpMultiPartPostHandler/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/C/Users/ujjwol/Documents/Visual Studio 2013/Projects/CSharpMultiPartPostHandler/CSharpMultiPartPostHandler/bin/Debug/CSharpMultiPartPostHandler.exe.mdb
+/Volumes/C/Users/ujjwol/Documents/Visual Studio 2013/Projects/CSharpMultiPartPostHandler/CSharpMultiPartPostHandler/bin/Debug/CSharpMultiPartPostHandler.exe
+/Volumes/C/Users/ujjwol/Documents/Visual Studio 2013/Projects/CSharpMultiPartPostHandler/CSharpMultiPartPostHandler/obj/Debug/CSharpMultiPartPostHandler.exe
+/Volumes/C/Users/ujjwol/Documents/Visual Studio 2013/Projects/CSharpMultiPartPostHandler/CSharpMultiPartPostHandler/obj/Debug/CSharpMultiPartPostHandler.exe.mdb
+/Volumes/C/Users/ujjwol/Documents/Visual Studio 2013/Projects/CSharpMultiPartPostHandler/CSharpMultiPartPostHandler/bin/Debug/MimeSharp.dll
+/Volumes/C/Users/ujjwol/Documents/Visual Studio 2013/Projects/CSharpMultiPartPostHandler/CSharpMultiPartPostHandler/bin/Debug/Newtonsoft.Json.dll

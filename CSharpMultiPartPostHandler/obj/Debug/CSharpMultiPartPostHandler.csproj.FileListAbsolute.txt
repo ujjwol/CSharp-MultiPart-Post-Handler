@@ -1,0 +1,9 @@
+c:\users\ujjwol\documents\visual studio 2013\Projects\CSharpMultiPartPostHandler\CSharpMultiPartPostHandler\obj\Debug\CSharpMultiPartPostHandler.csprojResolveAssemblyReference.cache
+c:\users\ujjwol\documents\visual studio 2013\Projects\CSharpMultiPartPostHandler\CSharpMultiPartPostHandler\bin\Debug\CSharpMultiPartPostHandler.exe.config
+c:\users\ujjwol\documents\visual studio 2013\Projects\CSharpMultiPartPostHandler\CSharpMultiPartPostHandler\bin\Debug\CSharpMultiPartPostHandler.exe
+c:\users\ujjwol\documents\visual studio 2013\Projects\CSharpMultiPartPostHandler\CSharpMultiPartPostHandler\bin\Debug\CSharpMultiPartPostHandler.pdb
+c:\users\ujjwol\documents\visual studio 2013\Projects\CSharpMultiPartPostHandler\CSharpMultiPartPostHandler\bin\Debug\MimeSharp.dll
+c:\users\ujjwol\documents\visual studio 2013\Projects\CSharpMultiPartPostHandler\CSharpMultiPartPostHandler\bin\Debug\Newtonsoft.Json.dll
+c:\users\ujjwol\documents\visual studio 2013\Projects\CSharpMultiPartPostHandler\CSharpMultiPartPostHandler\bin\Debug\Newtonsoft.Json.xml
+c:\users\ujjwol\documents\visual studio 2013\Projects\CSharpMultiPartPostHandler\CSharpMultiPartPostHandler\obj\Debug\CSharpMultiPartPostHandler.exe
+c:\users\ujjwol\documents\visual studio 2013\Projects\CSharpMultiPartPostHandler\CSharpMultiPartPostHandler\obj\Debug\CSharpMultiPartPostHandler.pdb
