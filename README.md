@@ -1,7 +1,7 @@
 CSharp-MultiPart-Post-Handler
 =============================
 
-[Not ready] Simple CSharp MultiPart Post Handler
+[Not production ready] Simple CSharp MultiPart Post Handler
 A simple MultiPart Post Handler library for CSharp. It's going to be a portable class library. Changes coming soon...
 
 ## License
